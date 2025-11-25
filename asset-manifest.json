@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/The-holy-kingdom-school/static/css/main.6e72f119.css",
-    "main.js": "/The-holy-kingdom-school/static/js/main.115d7afd.js",
+    "main.css": "/The-holy-kingdom-school/static/css/main.69f4816b.css",
+    "main.js": "/The-holy-kingdom-school/static/js/main.04e2b87e.js",
     "static/js/453.57caa476.chunk.js": "/The-holy-kingdom-school/static/js/453.57caa476.chunk.js",
     "index.html": "/The-holy-kingdom-school/index.html",
-    "main.6e72f119.css.map": "/The-holy-kingdom-school/static/css/main.6e72f119.css.map",
-    "main.115d7afd.js.map": "/The-holy-kingdom-school/static/js/main.115d7afd.js.map",
+    "main.69f4816b.css.map": "/The-holy-kingdom-school/static/css/main.69f4816b.css.map",
+    "main.04e2b87e.js.map": "/The-holy-kingdom-school/static/js/main.04e2b87e.js.map",
     "453.57caa476.chunk.js.map": "/The-holy-kingdom-school/static/js/453.57caa476.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e72f119.css",
-    "static/js/main.115d7afd.js"
+    "static/css/main.69f4816b.css",
+    "static/js/main.04e2b87e.js"
   ]
 }
